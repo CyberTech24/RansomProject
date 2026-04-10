@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+.env
+
+# Logs and Forensics
+logs/
+forensic_reports/
+security_monitored_zone/
+
+# Uploads
+uploads/
+
+# Node/React
+node_modules/
+build/
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db

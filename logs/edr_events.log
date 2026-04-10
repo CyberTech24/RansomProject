@@ -6784,3 +6784,233 @@
 [2026-04-09 22:13:06] [*] New file detected: c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe
 [2026-04-09 22:13:06] [!] XDR ALERT: XGBoost detected 'c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe' as Ransomware (99.99%)
 [2026-04-09 22:13:09] [+] Forensic Report: None
+[2026-04-10 10:09:27] [*] New file detected: Antigravity.lnk
+[2026-04-10 10:09:27] [+] XGBoost cleared 'Antigravity.lnk'. File is safe.
+[2026-04-10 10:10:03] [*] New file detected: WTEpZSFwgb
+[2026-04-10 10:10:03] [-] Feature extraction failed for Security_Monitored_Zone\WTEpZSFwgb: [Errno 22] Invalid argument: 'Security_Monitored_Zone\\WTEpZSFwgb'
+[2026-04-10 10:13:20] [*] New file detected: 00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe
+[2026-04-10 10:13:20] [+] XGBoost cleared '00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe'. File is safe.
+[2026-04-10 10:14:54] [*] New file detected: 75cb7eb79a5fa0d388547520c6c452c700d38659080be074d70395729a0b578e.elf
+[2026-04-10 10:14:54] [-] Feature extraction failed for Security_Monitored_Zone\75cb7eb79a5fa0d388547520c6c452c700d38659080be074d70395729a0b578e.elf: [Errno 22] Invalid argument: 'Security_Monitored_Zone\\75cb7eb79a5fa0d388547520c6c452c700d38659080be074d70395729a0b578e.elf'
+[2026-04-10 10:16:44] [*] New file detected: 05294c9970f365c92e0b0f1250db678dc356dbf418dba27bdd5eeb68487a7199.exe
+[2026-04-10 10:16:44] [+] XGBoost cleared '05294c9970f365c92e0b0f1250db678dc356dbf418dba27bdd5eeb68487a7199.exe'. File is safe.
+[2026-04-10 10:19:15] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 10:19:15] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 10:19:18] [+] Forensic Report: None
+[2026-04-10 10:32:54] [*] New file detected: c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe
+[2026-04-10 10:32:54] [!] XDR ALERT: XGBoost detected 'c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe' as Ransomware (99.99%)
+[2026-04-10 10:32:57] [+] Forensic Report: None
+[2026-04-10 13:21:01] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 13:21:01] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 13:21:01] [-] Failed to quarantine: [WinError 183] Cannot create a file when that file already exists: 'Security_Monitored_Zone\\eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' -> 'Security_Monitored_Zone\\eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe.quarantined'
+[2026-04-10 13:21:18] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:21:20] [*] New file detected: 94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.rar
+[2026-04-10 13:21:20] [!] XDR ALERT: XGBoost detected '94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.rar' as Ransomware (99.98%)
+[2026-04-10 13:21:34] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:22:09] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 13:22:09] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 13:22:18] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:22:18] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 13:22:19] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 13:22:19] [-] Failed to quarantine: [WinError 183] Cannot create a file when that file already exists: 'Security_Monitored_Zone\\eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' -> 'Security_Monitored_Zone\\eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe.quarantined'
+[2026-04-10 13:22:26] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:25:00] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 13:25:00] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 13:25:12] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:25:47] [*] New file detected: Git-2.53.0.2-64-bit.exe
+[2026-04-10 13:25:47] [!] XDR ALERT: XGBoost detected 'Git-2.53.0.2-64-bit.exe' as Ransomware (57.02%)
+[2026-04-10 13:25:54] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:25:55] [*] New file detected: OllamaSetup.exe
+[2026-04-10 13:25:55] [-] Feature extraction failed for Security_Monitored_Zone\OllamaSetup.exe: [Errno 13] Permission denied: 'Security_Monitored_Zone\\OllamaSetup.exe'
+[2026-04-10 13:25:57] [*] New file detected: node-v24.14.1-x64.msi
+[2026-04-10 13:25:57] [+] XGBoost cleared 'node-v24.14.1-x64.msi'. File is safe.
+[2026-04-10 13:25:58] [*] New file detected: python-3.13.13-amd64.exe
+[2026-04-10 13:25:58] [+] XGBoost cleared 'python-3.13.13-amd64.exe'. File is safe.
+[2026-04-10 13:29:35] [*] New file detected: c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe
+[2026-04-10 13:29:35] [!] XDR ALERT: XGBoost detected 'c34af1f1f238747d6839ce6857138e97d722443c4e2a794c072c236228ceaa07.exe' as Ransomware (99.99%)
+[2026-04-10 13:29:46] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 13:30:16] [*] New file detected: 00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe
+[2026-04-10 13:30:16] [+] XGBoost cleared '00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe'. File is safe.
+[2026-04-10 13:46:43] [*] New file detected: Git-2.53.0.2-64-bit.exe
+[2026-04-10 13:46:43] [+] Cleared by Cryptographic Whitelist: 'Git-2.53.0.2-64-bit.exe'. File is a mathematically verified trusted installer.
+[2026-04-10 14:10:11] [*] New file detected: 94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.zip
+[2026-04-10 14:10:11] [!] XDR ALERT: XGBoost detected '94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.zip' as Ransomware (99.99%)
+[2026-04-10 14:10:22] [+] Forensic Report: [OLLAMA OFFLINE] Could not connect to Ollama to generate forensic report.
+[2026-04-10 14:10:23] [*] New file detected: Unconfirmed 68436.crdownload
+[2026-04-10 14:10:23] [-] Feature extraction failed for Security_Monitored_Zone\Unconfirmed 68436.crdownload: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\Unconfirmed 68436.crdownload'
+[2026-04-10 14:11:52] [*] New file detected: jdk-26_windows-x64_bin.exe
+[2026-04-10 14:11:52] [-] Feature extraction failed for Security_Monitored_Zone\jdk-26_windows-x64_bin.exe: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\jdk-26_windows-x64_bin.exe'
+[2026-04-10 14:11:53] [*] New file detected: Unconfirmed 929954.crdownload
+[2026-04-10 14:11:53] [+] XGBoost cleared 'Unconfirmed 929954.crdownload'. File is safe.
+[2026-04-10 14:15:47] [*] New file detected: jdk-26_windows-x64_bin.exe
+[2026-04-10 14:15:47] [-] Feature extraction failed for Security_Monitored_Zone\jdk-26_windows-x64_bin.exe: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\jdk-26_windows-x64_bin.exe'
+[2026-04-10 14:15:49] [*] New file detected: Unconfirmed 396775.crdownload
+[2026-04-10 14:15:49] [+] XGBoost cleared 'Unconfirmed 396775.crdownload'. File is safe.
+[2026-04-10 14:16:09] [*] New file detected: jdk-25_windows-x64_bin.exe
+[2026-04-10 14:16:09] [-] Feature extraction failed for Security_Monitored_Zone\jdk-25_windows-x64_bin.exe: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\jdk-25_windows-x64_bin.exe'
+[2026-04-10 14:16:10] [*] New file detected: Unconfirmed 460097.crdownload
+[2026-04-10 14:16:10] [+] XGBoost cleared 'Unconfirmed 460097.crdownload'. File is safe.
+[2026-04-10 14:19:27] [*] New file detected: jdk-25_windows-x64_bin.exe
+[2026-04-10 14:19:27] [-] Feature extraction failed for Security_Monitored_Zone\jdk-25_windows-x64_bin.exe: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\jdk-25_windows-x64_bin.exe'
+[2026-04-10 14:23:37] [-] Aborted scan on 'jdk-26_windows-x64_bin.exe'. File is permanently locked or was deleted.
+[2026-04-10 14:45:06] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 14:45:06] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 14:45:06] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 14:45:06] [!] NIDS: Detected 11 active external connection(s). Tracing origins...
+[2026-04-10 14:45:07] [!] NIDS TRACE: 104.86.188.194:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 10404) | Location: Chennai, India | ISP: Akamai Technologies, Inc.
+[2026-04-10 14:45:07] [!] NIDS TRACE: 2404:6800:4007:83b::200a:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Sydney, Australia | ISP: Google International, LLC
+[2026-04-10 14:45:07] [!] NIDS TRACE: 148.251.40.117:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Falkenstein, Germany | ISP: Hetzner
+[2026-04-10 14:45:07] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 14:45:07] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 14:45:08] [!] NIDS TRACE: 216.239.38.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:45:08] [!] NIDS TRACE: 216.239.36.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:45:08] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:45:08] [!] NIDS TRACE: 51.116.246.106:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Frankfurt am Main, Germany | ISP: Microsoft Azure One Ds Collector (germanywestcentral)
+[2026-04-10 14:45:08] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:45:08] [!] NIDS TRACE: 104.208.16.92:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 14:45:08] [+] NIDS: Network trace complete.
+[2026-04-10 14:45:11] [+] Forensic Report: None
+[2026-04-10 14:53:21] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 14:53:21] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 14:53:21] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 14:53:22] [!] NIDS: Detected 15 active external connection(s). Tracing origins...
+[2026-04-10 14:53:22] [!] NIDS TRACE: 20.189.173.25:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: San Francisco, United States | ISP: Microsoft Azure One Ds Collector (westus)
+[2026-04-10 14:53:22] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: Antigravity.exe (PID: 7128) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:22] [!] NIDS TRACE: 192.178.211.95:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Mountain View, United States | ISP: Google LLC
+[2026-04-10 14:53:22] [!] NIDS TRACE: 20.189.173.24:443 | Status: ESTABLISHED | Process: Antigravity.exe (PID: 9172) | Location: San Francisco, United States | ISP: Microsoft Azure One Ds Collector (westus)
+[2026-04-10 14:53:22] [!] NIDS TRACE: 104.86.188.194:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 10404) | Location: Chennai, India | ISP: Akamai Technologies, Inc.
+[2026-04-10 14:53:22] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:23] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:53:23] [!] NIDS TRACE: 216.239.36.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:23] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 14:53:23] [!] NIDS TRACE: 216.239.38.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:23] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 14:53:23] [!] NIDS TRACE: 216.239.38.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:24] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:53:24] [!] NIDS TRACE: 216.239.36.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:53:24] [!] NIDS TRACE: 142.251.222.129:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Mountain View, United States | ISP: Google LLC
+[2026-04-10 14:53:24] [+] NIDS: Network trace complete.
+[2026-04-10 14:53:24] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_14-53-24_eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe.txt
+[2026-04-10 14:55:24] [*] New file detected: 94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.rar
+[2026-04-10 14:55:24] [!] XDR ALERT: XGBoost detected '94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.rar' as Ransomware (99.98%)
+[2026-04-10 14:55:24] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 14:55:24] [!] NIDS: Detected 16 active external connection(s). Tracing origins...
+[2026-04-10 14:55:25] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:55:25] [!] NIDS TRACE: 104.86.188.194:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 10404) | Location: Chennai, India | ISP: Akamai Technologies, Inc.
+[2026-04-10 14:55:25] [!] NIDS TRACE: 216.239.38.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:55:25] [!] NIDS TRACE: 216.239.36.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:55:25] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 14:55:26] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:55:26] [!] NIDS TRACE: 104.208.16.92:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 14:55:26] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 14:55:26] [!] NIDS TRACE: 20.189.173.24:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: San Francisco, United States | ISP: Microsoft Azure One Ds Collector (westus)
+[2026-04-10 14:55:26] [!] NIDS TRACE: 4.144.165.14:443 | Status: ESTABLISHED | Process: smartscreen.exe (PID: 5584) | Location: Singapore, Singapore | ISP: Microsoft Azure Cloud (southeastasia)
+[2026-04-10 14:55:27] [!] NIDS TRACE: 72.145.35.117:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 2736) | Location: Dublin, Ireland | ISP: Microsoft Azure Cloud (northeurope)
+[2026-04-10 14:55:27] [!] NIDS TRACE: 20.189.173.14:443 | Status: ESTABLISHED | Process: OneDrive.Sync.Service.exe (PID: 7808) | Location: San Francisco, United States | ISP: Microsoft Azure One Ds Collector (westus)
+[2026-04-10 14:55:27] [!] NIDS TRACE: 216.239.32.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:55:27] [!] NIDS TRACE: 216.239.36.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 14:55:27] [!] NIDS TRACE: 142.251.222.129:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Mountain View, United States | ISP: Google LLC
+[2026-04-10 14:55:28] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 14:55:28] [+] NIDS: Network trace complete.
+[2026-04-10 14:55:28] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_14-55-28_94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b.rar.txt
+[2026-04-10 15:00:56] [*] New file detected: 00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe
+[2026-04-10 15:00:56] [+] XGBoost cleared '00202340108c101d59bbfb3daa4bbd6b4436c167e3c9734c07bfbdcb1402f746.exe'. File is safe.
+[2026-04-10 15:05:16] [*] New file detected: eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe
+[2026-04-10 15:05:16] [!] XDR ALERT: XGBoost detected 'eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe' as Ransomware (57.02%)
+[2026-04-10 15:05:16] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 15:05:16] [!] NIDS: Detected 13 active external connection(s). Tracing origins...
+[2026-04-10 15:05:16] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:05:17] [!] NIDS TRACE: 150.171.27.12:443 | Status: ESTABLISHED | Process: backgroundTaskHost.exe (PID: 7012) | Location: Toronto, Canada | ISP: Microsoft Corporation
+[2026-04-10 15:05:17] [!] NIDS TRACE: 172.217.24.193:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Mountain View, United States | ISP: Google LLC
+[2026-04-10 15:05:17] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:05:17] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:05:17] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 15:05:18] [!] NIDS TRACE: 20.50.73.10:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Dublin, Ireland | ISP: Microsoft Azure One Ds Collector (northeurope)
+[2026-04-10 15:05:18] [!] NIDS TRACE: 216.239.34.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:05:18] [!] NIDS TRACE: 13.71.55.58:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 15:05:18] [!] NIDS TRACE: 216.239.38.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:05:18] [!] NIDS TRACE: 216.239.34.223:443 | Status: ESTABLISHED | Process: Antigravity.exe (PID: 7128) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:05:18] [!] NIDS TRACE: 104.86.188.194:443 | Status: ESTABLISHED | Process: SearchApp.exe (PID: 10404) | Location: Chennai, India | ISP: Akamai Technologies, Inc.
+[2026-04-10 15:05:18] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 15:05:18] [+] NIDS: Network trace complete.
+[2026-04-10 15:05:18] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_15-05-18_eefc0f986dd3ea376a4a54f80ce0dc3e6491165aefdd7d5d6005da3892ce248f.exe.txt
+[2026-04-10 15:11:14] [*] New file detected: 94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip
+[2026-04-10 15:11:15] [!] XDR ALERT: XGBoost detected '94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip' as Ransomware (99.98%)
+[2026-04-10 15:11:15] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 15:11:15] [!] NIDS: Detected 13 active external connection(s). Tracing origins...
+[2026-04-10 15:11:15] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:11:15] [!] NIDS TRACE: 104.86.188.194:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 10404) | Location: Chennai, India | ISP: Akamai Technologies, Inc.
+[2026-04-10 15:11:15] [!] NIDS TRACE: 216.239.38.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:11:15] [!] NIDS TRACE: 216.239.38.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:11:15] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:11:16] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:11:16] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 15:11:16] [!] NIDS TRACE: 40.74.81.198:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Osaka, Japan | ISP: Microsoft Azure Cloud (japanwest)
+[2026-04-10 15:11:16] [!] NIDS TRACE: 52.182.143.215:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 15:11:16] [!] NIDS TRACE: 199.232.106.49:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Hyderabad, India | ISP: Fastly, Inc.
+[2026-04-10 15:11:16] [!] NIDS TRACE: 216.239.32.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:11:17] [!] NIDS TRACE: 172.217.24.193:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Mountain View, United States | ISP: Google LLC
+[2026-04-10 15:11:17] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 15:11:17] [+] NIDS: Network trace complete.
+[2026-04-10 15:11:17] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_15-11-17_94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip.txt
+[2026-04-10 15:11:18] [*] New file detected: Unconfirmed 646653.crdownload
+[2026-04-10 15:11:18] [-] Feature extraction failed for Security_Monitored_Zone\Unconfirmed 646653.crdownload: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\Unconfirmed 646653.crdownload'
+[2026-04-10 15:13:26] [*] New file detected: 94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip
+[2026-04-10 15:13:26] [!] XDR ALERT: XGBoost detected '94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip' as Ransomware (99.99%)
+[2026-04-10 15:13:26] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 15:13:26] [!] NIDS: Detected 11 active external connection(s). Tracing origins...
+[2026-04-10 15:13:26] [!] NIDS TRACE: 199.232.106.49:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Hyderabad, India | ISP: Fastly, Inc.
+[2026-04-10 15:13:26] [!] NIDS TRACE: 216.239.32.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:13:27] [!] NIDS TRACE: 216.239.32.223:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:13:27] [!] NIDS TRACE: 40.74.81.198:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Osaka, Japan | ISP: Microsoft Azure Cloud (japanwest)
+[2026-04-10 15:13:27] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:13:27] [!] NIDS TRACE: 52.182.143.215:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 15:13:27] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 15:13:27] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 15:13:27] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 15:13:28] [!] NIDS TRACE: 20.189.173.1:443 | Status: SYN_SENT | Process: Antigravity.exe (PID: 9172) | Location: San Francisco, United States | ISP: Microsoft Azure One Ds Collector (westus)
+[2026-04-10 15:13:28] [!] NIDS TRACE: 216.239.38.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 15:13:28] [+] NIDS: Network trace complete.
+[2026-04-10 15:13:28] [*] Collecting forensic data: Mark of the Web...
+[2026-04-10 15:13:28] [*] Collecting forensic data: Memory Snapshot...
+[2026-04-10 15:13:28] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_15-13-28_94714281345e7a8502f05edc3f192bb7889702a5cb2b31adcbae49e5d59c7b8b (1).zip.txt
+[2026-04-10 15:13:29] [*] New file detected: Unconfirmed 889864.crdownload
+[2026-04-10 15:13:29] [-] Feature extraction failed for Security_Monitored_Zone\Unconfirmed 889864.crdownload: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\Unconfirmed 889864.crdownload'
+[2026-04-10 16:14:34] [*] New file detected: cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.zip
+[2026-04-10 16:14:34] [!] XDR ALERT: XGBoost detected 'cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.zip' as Ransomware (99.38%)
+[2026-04-10 16:14:34] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 16:14:34] [!] NIDS: Detected 9 active external connection(s). Tracing origins...
+[2026-04-10 16:14:35] [!] NIDS TRACE: 199.232.106.49:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Hyderabad, India | ISP: Fastly, Inc.
+[2026-04-10 16:14:35] [!] NIDS TRACE: 52.123.226.71:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Chennai, India | ISP: Microsoft Corporation
+[2026-04-10 16:14:35] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 16:14:35] [!] NIDS TRACE: 52.182.143.215:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 16:14:35] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 16:14:35] [!] NIDS TRACE: 52.139.252.32:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Singapore, Singapore | ISP: Microsoft Azure Cloud (southeastasia)
+[2026-04-10 16:14:36] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 16:14:36] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 16:14:36] [!] NIDS TRACE: 184.26.54.41:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Hyderabad, India | ISP: Bharti Airtel
+[2026-04-10 16:14:36] [+] NIDS: Network trace complete.
+[2026-04-10 16:14:36] [*] Collecting forensic data: Mark of the Web...
+[2026-04-10 16:14:36] [*] Collecting forensic data: Memory Snapshot...
+[2026-04-10 16:14:37] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_16-14-36_cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.zip.txt
+[2026-04-10 16:14:38] [*] New file detected: Unconfirmed 558744.crdownload
+[2026-04-10 16:14:38] [-] Feature extraction failed for Security_Monitored_Zone\Unconfirmed 558744.crdownload: [Errno 2] No such file or directory: 'Security_Monitored_Zone\\Unconfirmed 558744.crdownload'
+[2026-04-10 16:16:28] [*] New file detected: cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.elf
+[2026-04-10 16:16:28] [!] XDR ALERT: XGBoost detected 'cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.elf' as Ransomware (94.18%)
+[2026-04-10 16:16:28] [*] NIDS: Initiating Network Intrusion Trace...
+[2026-04-10 16:16:28] [!] NIDS: Detected 11 active external connection(s). Tracing origins...
+[2026-04-10 16:16:29] [!] NIDS TRACE: 199.232.106.49:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Hyderabad, India | ISP: Fastly, Inc.
+[2026-04-10 16:16:29] [!] NIDS TRACE: 216.239.32.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 16:16:29] [!] NIDS TRACE: 216.239.36.223:443 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Austell, United States | ISP: Google LLC
+[2026-04-10 16:16:29] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8092) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 16:16:29] [!] NIDS TRACE: 52.182.143.215:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Des Moines, United States | ISP: Microsoft Azure One Ds Collector (centralus)
+[2026-04-10 16:16:30] [!] NIDS TRACE: 23.202.229.22:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Chennai, India | ISP: Akamai Technologies
+[2026-04-10 16:16:30] [!] NIDS TRACE: 208.95.112.1:80 | Status: TIME_WAIT | Process: Unknown (PID: 0) | Location: Ashburn, United States | ISP: Total Uptime Technologies, LLC
+[2026-04-10 16:16:30] [!] NIDS TRACE: 52.139.252.32:443 | Status: ESTABLISHED | Process: msedge.exe (PID: 7200) | Location: Singapore, Singapore | ISP: Microsoft Azure Cloud (southeastasia)
+[2026-04-10 16:16:30] [!] NIDS TRACE: 34.54.84.110:443 | Status: ESTABLISHED | Process: language_server_windows_x64.exe (PID: 8824) | Location: Kansas City, United States | ISP: Google Cloud
+[2026-04-10 16:16:30] [!] NIDS TRACE: 4.213.25.242:443 | Status: ESTABLISHED | Process: svchost.exe (PID: 3060) | Location: Pune, India | ISP: Microsoft Azure Cloud (centralindia)
+[2026-04-10 16:16:30] [!] NIDS TRACE: 184.26.54.41:443 | Status: CLOSE_WAIT | Process: SearchApp.exe (PID: 5936) | Location: Hyderabad, India | ISP: Bharti Airtel
+[2026-04-10 16:16:31] [+] NIDS: Network trace complete.
+[2026-04-10 16:16:31] [*] Collecting forensic data: Mark of the Web...
+[2026-04-10 16:16:31] [*] Collecting forensic data: Memory Snapshot...
+[2026-04-10 16:16:31] [+] Forensic Report saved to: forensic_reports\INCIDENT_2026-04-10_16-16-31_cf5912a34ac1af0e412b28315287fc995019c153ebeb9b618b04ad7836b7e29b.elf.txt
